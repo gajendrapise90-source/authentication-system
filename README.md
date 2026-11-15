@@ -1,8 +1,8 @@
-# Authentication System
+Authentication System
 
 A full-stack authentication application built using React.js, Node.js, Express.js, and MySQL.
 
-## Features
+Features
 
 - User Registration
 - User Login
@@ -15,16 +15,16 @@ A full-stack authentication application built using React.js, Node.js, Express.j
 - Responsive UI
 - MySQL Database Integration
 
-## Technologies Used
+Technologies Used
 
-### Frontend
+Frontend
 - React.js
 - Vite
 - Axios
 - React Router
 - CSS3
 
-### Backend
+Backend
 - Node.js
 - Express.js
 - MySQL
@@ -32,7 +32,7 @@ A full-stack authentication application built using React.js, Node.js, Express.j
 - bcrypt
 - dotenv
 
-## Project Structure
+Project Structure
 
 authentication-system/
 - backend/
@@ -40,7 +40,7 @@ authentication-system/
 - .gitignore
 - README.md
 
-## Database
+Database
 
 Database Name: authentication_system
 
@@ -48,9 +48,8 @@ Tables:
 - users
 - revoked_tokens
 
-## Installation
 
-### Backend
+Backend
 
 ```bash
 cd backend
